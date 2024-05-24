@@ -1,0 +1,66 @@
+{
+  "772324": {
+    "questions": [
+      {
+        "body": "The programming language 'Swift' was created to replace what other programming language?",
+        "answer": 1,
+        "multi_answer": [
+          0,
+          1
+        ],
+        "isMultiple": false,
+        "option": [
+          "Ruby",
+          "Objective-C",
+          "C++",
+          "C#"
+        ]
+      },
+      {
+        "body": "In computing terms, typically what does CLI stand for?",
+        "answer": 2,
+        "multi_answer": [
+          0,
+          1
+        ],
+        "isMultiple": false,
+        "option": [
+          "Common Language Input",
+          "Control Line Interface",
+          "Command Line Interface",
+          "Common Language Interface"
+        ]
+      },
+      {
+        "body": "What does the computer software acronym JVM stand for?",
+        "answer": 0,
+        "multi_answer": [
+          0,
+          1
+        ],
+        "isMultiple": false,
+        "option": [
+          "Java Virtual Machine",
+          "Java Vendor Machine",
+          "Java Visual Machine",
+          "Just Virtual Machine"
+        ]
+      },
+      {
+        "body": "Yes",
+        "answer": 0,
+        "multi_answer": [
+          0,
+          1
+        ],
+        "isMultiple": false,
+        "option": [
+          "For only",
+          "test",
+          "ing",
+          "!"
+        ]
+      }
+    ]
+  }
+}
